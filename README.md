@@ -6,25 +6,31 @@ I'm a Software Engineering student passionate about web development, cybersecuri
 
 ## 🚀 Skills and Technologies
 - **Programming Languages:** C++, Python, SQL
-- **Web Development:** HTML, CSS, JavaScript, React
+- **Web Development:** HTML, CSS, JavaScript
 - **Cybersecurity:** Following Google’s Cybersecurity courses on Coursera
-- **Tools:** Git, GitHub, VS Code, Blender, Davinci Resolve, Photoshop
+- **Web Tools:** Git, GitHub, VS Code
+- **Animation - Designing:** Blender, Davinci Resolve, Illustrator, Photoshop, Figma
 
 ## 📊 GitHub Stats
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkalim21&show_icons=true&title_color=f00&icon_color=f00&text_color=333&bg_color=ffbd59)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkalim21&rank_icon=github&show_icons=true&title_color=f00&icon_color=f00&text_color=333&bg_color=ffbd59&card_width=500)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahkalim21&stroke=333&ring=333&fire=f00&currStreakNum=333&sideNums=333&currStreakLabel=f00&sideLabels=333&dates=333&background=ffbd59)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahkalim21&stroke=333&ring=333&fire=f00&currStreakNum=333&sideNums=333&currStreakLabel=f00&sideLabels=333&dates=333&background=ffbd59&card_width=500)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdullahkalim21&theme=dark_lover&rank=A,B,C&row=2&no-bg=true&margin-w=10&margin-h=10)
 
+## 📈 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahkalim216?theme=unicorn&font=Karma&ext=contest&card_width=500)
+
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkalim21&layout=compact&title_color=333&icon_color=fff&text_color=333&bg_color=ffbd59)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkalim21&layout=pie&title_color=333&icon_color=fff&text_color=333&bg_color=ffbd59&card_width=500)
 
 ## ✨ Projects
-- [Project 1](https://github.com/abdullahkalim21/cpp_basic_programs): Brief description of the project.
-- [Project 2](https://github.com/yourusername/project2): Brief description of the project.
+- [C++ Programs](https://github.com/abdullahkalim21/cpp_basic_programs): Basic Programs in C++ language
+- [Hospital Management System](https://github.com/abdullahkalim21/cpp_basic_programs/Hospital-Management-System.cpp): Basic Hospital Admin's Management System
+- [Portfolio Website](https://abdullahkaleem.netlify.app): Custom Portfolio Website
+
 
 ## 🌱 Currently Learning
 - Cybersecurity

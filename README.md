@@ -5,8 +5,8 @@
 I'm a Software Engineering student passionate about web development, cybersecurity, and technology.
 
 ## 🚀 Skills and Technologies
-- **Programming Languages:** C++, Python, SQL
-- **Web Development:** HTML, CSS, JavaScript
+- **Programming Languages:** C++, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, REACT
 - **Cybersecurity:** Following Google’s Cybersecurity courses on Coursera
 - **Web Tools:** Git, GitHub, VS Code
 - **Animation - Designing:** Blender, Davinci Resolve, Illustrator, Photoshop, Figma
@@ -26,16 +26,17 @@ I'm a Software Engineering student passionate about web development, cybersecuri
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkalim21&layout=pie&title_color=333&icon_color=fff&text_color=333&bg_color=ffbd59&card_width=500)
 
-## ✨ Projects
+## 🗂️ Projects
+- [Countdown Timer Chrome Extension](https://github.com/abdullahkalim21/countdown-chrome-extention.git)
 - [C++ Programs](https://github.com/abdullahkalim21/cpp_basic_programs): Basic Programs in C++ language
 - [Hospital Management System](https://github.com/abdullahkalim21/cpp_basic_programs/Hospital-Management-System.cpp): Basic Hospital Admin's Management System
 - [Portfolio Website](https://abdullahkaleem.netlify.app): Custom Portfolio Website
 
 
 ## 🌱 Currently Learning
-- Cybersecurity
-- Python and SQL
+- Web Development
+- C++, JavaScript
 
-## 📫 How to reach me
+## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkalim216/)
 [![Twitter](https://img.shields.io/badge/-Twitter-gray?style=flat-round&logo=x&logoColor=white)](https://x.com/abdullahkalim21)

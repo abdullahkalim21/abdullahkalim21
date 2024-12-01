@@ -21,6 +21,7 @@ I'm a Software Engineering student passionate about web development, cybersecuri
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdullahkalim21&theme=dark_lover&rank=A,B,C&row=2&no-bg=true&margin-w=10&margin-h=10)
 
 ## 📈 LeetCode
+### [🔗 LeetCode Profile 🫠](https://leetcode.com/u/abdullahkalim216/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahkalim216?theme=unicorn&font=Karma&ext=contest&card_width=500)
 
 ## 💻 Top Languages

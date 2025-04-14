@@ -1,6 +1,7 @@
 # Hi there, I'm Abdullah 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullahkalim21&color=ffbd59)
+[![wakatime](https://wakatime.com/badge/user/69337e78-c505-4c8f-a158-5743b61e913b.svg)](https://wakatime.com/@69337e78-c505-4c8f-a158-5743b61e913b)
 
 I'm a Software Engineering student learning about web development, cybersecurity, and technology.
 
